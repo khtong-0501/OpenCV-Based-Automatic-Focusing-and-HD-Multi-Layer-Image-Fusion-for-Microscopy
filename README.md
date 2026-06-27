@@ -48,6 +48,8 @@ A specialized interface for background removal and image refinement:
 
 
 # 顯微鏡自動對焦與 3D 融合系統：使用者說明書
+作者：Martin TONG, Jason TONG, Jacky SIT
+單位：Escola Dos Moradores De Macau
 
 ## 1. 系統概覽
 本系統是一款整合顯微鏡自動對焦、高清多焦面影像融合與 3D 可視化的一體化解決方案。系統旨在解決傳統光學顯微鏡景深極淺、容易因手動對焦失誤導致影像模糊的難題。
