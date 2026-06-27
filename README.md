@@ -51,7 +51,7 @@ A specialized interface for background removal and image refinement:
 
 
 
-# 顯微鏡自動對焦與 3D 融合系統：使用者說明書
+# 基於OpenCv顯微鏡自動對焦以及高清分層合併：使用者說明書
 作者：Martin TONG, Jason TONG, Jacky SIT
 
 單位：Escola Dos Moradores De Macau
