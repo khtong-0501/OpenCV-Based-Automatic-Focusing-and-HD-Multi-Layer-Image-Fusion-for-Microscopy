@@ -1,7 +1,10 @@
 # Microscope Auto-Focus & 3D Fusion System: User Manual
 Author: Martin TONG, Jason TONG, Jacky SIT
+
 Unit: Escola Dos Moradores De Macau
+
 Software link: https://drive.google.com/file/d/16daq7fprnsxukdZ4S2WjzEJeX-OwqW67/view?usp=drive_link
+
 ## 1. System Overview
 This system is an integrated solution for automated microscope focusing, high-definition multi-focal image fusion, and 3D visualization. It is designed to overcome the limitations of traditional optical microscopy, such as shallow depth of field and manual focusing errors.
 
